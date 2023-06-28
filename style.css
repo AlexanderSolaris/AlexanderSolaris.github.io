@@ -1,0 +1,76 @@
+* {
+    padding: 0 0;
+    margin: 0 0;
+    border: 0 0;
+    font-family: 'Ysabeau Office', sans-serif;
+}
+h1 {
+    text-align: center;
+    text-decoration: wavy;
+    padding: 20px 0;
+}
+#sumario {
+    padding: 10px 10px 10px 15px;
+    text-align: left;
+}
+.item-lista-sumario {
+    color: white;
+    font-size: 17px;
+}
+#lista-habilidades {
+    padding: 10px 10px 10px 15px;
+}
+.item-lista-habilidades {
+    font-size: 20px;
+    font-weight: 500;
+}
+#container-hobbys {
+    text-align: center;
+    background-color: rgb(225, 248, 248);
+}
+#lista-hobbys {
+    padding: 10px 10px 10px 15px;
+    display: inline-block;
+}
+#container-habilidades {
+    color: white;
+    background-color: rgb(90, 175, 119);
+}
+#sobre-alisson {
+    text-align: center;
+}
+#alisson-header {
+    text-decoration: underline; color: white;
+}
+#container-header {
+    background-color: rgb(83, 143, 161); color: white;
+    text-align: center;
+}
+.session-title {
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+}
+#sobre-alisson {
+    padding: 10px 10px 25px 30px;
+}
+.session {
+    padding: 10px 10px 10px 15px;
+}
+#container-dicas {
+    color: white;
+    background-color: rgb(230, 172, 66);
+}
+.lista-dicas {
+    padding: 10px 10px 10px 15px;
+    display: inline-block;
+}
+.item-lista-dicas {
+    display: inline;
+    text-decoration: underline;
+    color: white;
+    font-size: 17px;
+}
+#voltar-ao-topo {
+    color: white;
+    text-align: right;
+}
