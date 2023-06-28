@@ -1,0 +1,35 @@
+* {
+    padding: 0 0;
+    margin: 0 0;
+    border: 0 0;
+    font-family: 'Ysabeau Office', sans-serif;
+}
+h1 {
+    text-align: center;
+    text-decoration: wavy;
+    padding: 20px 0;
+}
+#sumario {
+    padding: 10px 10px 10px 15px;
+    text-align: left;
+}
+.item-lista-sumario {
+    color: white;
+    font-size: 17px;
+}
+
+#alisson-header {
+    text-decoration: underline; color: white;
+}
+#header {
+    background-color: rgb(83, 143, 161); color: white;
+    text-align: center;
+    
+}
+.session-title {
+    padding: 10px 10px;
+    text-decoration: none;
+}
+.session {
+    padding: 10px 10px 10px 15px;
+}
